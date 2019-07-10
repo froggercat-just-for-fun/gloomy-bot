@@ -7,6 +7,11 @@ Currently, the following interfaces are planned:
 * Star Ocean Anamnesis
   * [x] Airtable sheet with full data store
   * [] Easier UI via discord.
+    * Auto-generate my Daily Results record to associate with my bars
+    * Guess at which mutual i'm typing so I don't have to type full names and crap
+    * Give me some quick stats on the mutual after I enter in the data
+    * Provide a querying mechanism to see how a given mutual is doing
+    * Ideally ... somehow improve the godawful speed of the Airtable UI things, I'm pretty sure it loads in all of the connected records in memory when I load a record tile.
   * [] Importing data from the global soa spreadsheet?
   * [] Inventory management?
   * [] Bar suggestions
@@ -29,4 +34,12 @@ Currently, the following interfaces are planned:
     * Apparently I can import plotly into my nodejs app to get charts and graphs and junk
   * [] Calculations of how many runs I'll need (approximately) to complete my goal
   * [] Some sort of inventory management
+  * [] Help me choose which characters I should focus on to do my best on my next event
+    * Given a list of events I'm going to run this week, what parties should I make?
+    * Even better ... generate the list of events I'm going to run this week.
+  * [] Would be cool to have an ongoing events database to track rewards, exp ... although there's a google sheet for that
+  * [] Would be cool to tell me if there are any character draws I should watch out for to increase my character stats
+  * [] Would be cool to tell me where my status vulnerabilities are
+  * [] Is there a way to tell whether my team is ready for HDT, etc. etc.
+  * [] Tell me the difficulty of a given event based on my team stats
   

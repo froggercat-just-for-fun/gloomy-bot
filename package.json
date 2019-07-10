@@ -3,6 +3,10 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "express": "4.16.3"
+    "express": "^4.16.4",
+    "discord.js": "^11.5.1",
+    "airtable-js": "^2.0.0",
+    "plotly": "^1.0.6",
+    "googlesheets-reader": "^0.0.3"
   }
 }
