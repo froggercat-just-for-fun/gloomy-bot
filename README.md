@@ -2,6 +2,8 @@
 
 Providing user interfaces to various sheets and databases for dat gacha lyfe.
 
+It might also be cool to have this tied to some of the other games that I play .... Sims 4, Harvest Moon ... I'm really wondering if there's an easy way to input data without hogging too much memory.
+
 Currently, the following interfaces are planned:
 
 * Star Ocean Anamnesis
