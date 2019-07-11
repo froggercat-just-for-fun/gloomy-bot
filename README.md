@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Purpose
 
 Providing user interfaces to various sheets and databases for dat gacha lyfe.
@@ -45,7 +44,3 @@ Currently, the following interfaces are planned:
   * [] Would be cool to tell me where my status vulnerabilities are
   * [] Is there a way to tell whether my team is ready for HDT, etc. etc.
   * [] Tell me the difficulty of a given event based on my team stats
-  
-=======
-# gloomy-bot
->>>>>>> 1d125ddfa23a00c9d094bf75e85bea06de0af309
